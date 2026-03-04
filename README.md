@@ -1,4 +1,4 @@
-<h1 align="center">Afzal Hussain</h1>
+<h1 align="center">Hi There! I Am Afzal Hussain S</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&color=1F6FEB&center=true&vCenter=true&width=700&lines=Data+Analytics+%7C+Power+BI+Specialist;SQL+%7C+Python+%7C+Business+Intelligence;Open+to+Data+Analytics+Opportunities" />
