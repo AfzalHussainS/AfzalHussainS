@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AfzalHussainS&label=Profile%20Visitors&color=blue&style=flat" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/afzalhussains">
     <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
